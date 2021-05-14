@@ -1,5 +1,6 @@
 # Bluetooth pedal for the PG Spark Amp 
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ad00801aa7b04839934f103c968ede85)](https://app.codacy.com/gh/copych/BT_Spark_pedal?utm_source=github.com&utm_medium=referral&utm_content=copych/BT_Spark_pedal&utm_campaign=Badge_Grade_Settings)
 [![](https://www.travis-ci.com/copych/BT_Spark_pedal.svg?branch=master)](https://www.travis-ci.com/github/copych/BT_Spark_pedal)
 
 It now can handle some basic functions:
