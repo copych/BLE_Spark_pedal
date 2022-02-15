@@ -1,3 +1,8 @@
+# Important Announcement
+
+This project is no longer supported, because there was a lot of changes to the Spark and to the app, and I think these changes are quite hard for me to sync to right now. Another reason is PlatformIO IDE, which appeared unfriendly to most peoele who wanted to clone this foot switch.
+So I join this project https://github.com/happyhappysundays (hopefully it will merge with this one https://github.com/happyhappysundays/SparkBox soon)
+
 # Bluetooth Low Energy (BLE) pedal for the PG Spark Amp
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/ea220b14059e479ab6a0419a1c4935f8)](https://www.codacy.com/gh/copych/BLE_Spark_pedal/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=copych/BLE_Spark_pedal&amp;utm_campaign=Badge_Grade)
