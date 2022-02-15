@@ -1,7 +1,7 @@
 # Important Announcement
 
 This project is no longer supported, because there was a lot of changes to the Spark and to the app, and I think these changes are quite hard for me to sync to right now. Another reason is PlatformIO IDE, which appeared unfriendly to most peoele who wanted to clone this foot switch.
-So I join this project https://github.com/happyhappysundays (hopefully it will merge with this one https://github.com/happyhappysundays/SparkBox soon)
+So I join this project https://github.com/happyhappysundays (hopefully it will merge with this one https://github.com/happyhappysundays/SparkBox soon).
 
 # Bluetooth Low Energy (BLE) pedal for the PG Spark Amp
 
